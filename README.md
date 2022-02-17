@@ -1,3 +1,4 @@
+Простое приложение по получению ответа на запрос fetch.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
